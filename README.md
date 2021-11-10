@@ -8,7 +8,7 @@
 
 + 必做第二条（使用Apifox模拟请求），这个已经做过了，success
 
-  > 测试时使用本题数据库，如需测试请修改application.yml中相应database
+  > 测试时使用本地数据库，如需测试请修改application.yml中相应database
 
 + ~~第三条，你现在能看到这段话，说明已经完成了（逃~~
 
